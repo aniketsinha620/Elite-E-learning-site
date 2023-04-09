@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body {
     background-color: #6060D8;
 }
@@ -114,4 +115,122 @@ p {
         margin-right: 2%;
         padding-right: 100px
     }
+=======
+body {
+    background-color: #6060D8;
+}
+
+h1 {
+    font-family: 'Ubuntu';
+    color: white;
+    font-weight: 800;
+    font-size: 3rem;
+}
+
+h3 {
+    font-family: 'Ubuntu';
+    color: black;
+    font-weight: 100;
+    font-size: 2rem;
+}
+
+p {
+    font-family: 'Ubuntu';
+    text-align: left;
+    
+    margin-right: 45%;
+    color: #CFD2CF;
+
+}
+
+.girl-img {
+
+    padding-top: 2%;
+    margin-left: 0%;
+    padding-left: 15.5%;
+    width: 80%;
+    postion: absolute;
+    /* border-radius: 100%; */
+
+    padding-left: 15%;
+}
+
+.content-feature {
+
+    padding-top: 2%;
+    padding-left: 5%;
+}
+
+.content-feature2 {}
+
+.content {
+
+    padding-left: 3.5%;
+}
+
+.buttons {
+    padding-top: 5%;
+    padding-right: 1%;
+}
+
+.buttons-one {
+    margin-right: 2.5%;
+}
+
+.navbar {
+    font-family: "Ubuntu";
+    padding-right: 7%;
+    padding-left: 7%;
+    padding-top: 2%;
+}
+
+.nav-item {
+    padding: 5%;
+}
+
+.search {
+    margin-left: 10%;
+
+}
+
+
+.search2 {
+    color: white;
+}
+
+/* .nav-li{
+    color:white;
+} */
+
+.nav-link {
+    color: white;
+}
+
+.social-media {
+    padding: 5%;
+    margin-left: 0%;
+
+}
+
+.fa-2x {
+    padding: 1%;
+}
+
+.fa-2x:hover {
+    color: white;
+}
+
+
+/* 
+/* .girl-img{
+    /* border-radius: 40%; */
+
+
+@media (max-width:1028px) {
+    .girl-img {
+        position: static;
+        margin-right: 2%;
+        padding-right: 100px
+    }
+>>>>>>> 162eb2c9f4a67b14fd1c91542d38eb888534f742
 }
